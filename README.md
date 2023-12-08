@@ -1,7 +1,8 @@
 # ZMK Turkish-Q Language-specific Keycodes
 
-   
-> **ⓘ**  When you use this package, you must select the computer keyboard input language Turkish-Q (Türkçe Q) 
+
+> [!WARNING]
+> When you use this package, you must select the computer keyboard input language Turkish-Q (Türkçe Q) 
 
 Download [keys_tr.h](keys_tr.h) to the directory where your *.keymap file is located           
 <br>
